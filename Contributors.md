@@ -1,4 +1,5 @@
   # Contributors
+  [Javokhir Jurakhodjaev](https://github.com/leader2one)
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Ammar Ahmed]    (https://github.com/ammar629)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
@@ -9,6 +10,7 @@
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
 - [pranjalshinde](https://github.com/pranjalshinde)
+- [Teal Larson](https://github.com/tealjulia)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Abidzar Muhammad](https://github.com/Abidzar16)
@@ -2002,6 +2004,7 @@
 - [Ernesto López](https://github.com/aernesto24)
 - [aetenotnk](https://github.com/aetenotnk)
 - [Lam Tran](https://github.com/Lam7150)
+- [Dominic Chan](https://github.com/notdom2078)
 - [Adrian Mendez](https://github.com/adrianmendez03)
 - [Michael Ference](https://github.com/mdference)
 - [Nephzee](https://github.com/nephzee)
@@ -3872,6 +3875,7 @@
 - Z41N
 - [Zain Sheraz](https://github.com/Z41N)
 - [Killian Frappart](https://github.com/KillianFrappartDev)
+- [Carles Cartes](https://github.com/litosnano)
 - [Ronak Sharma](https://github.com/RonakSharma1)
 - [Kamarul Risman](https://github.com/rismanss)
 - [Jan Carreras Prat](https://jcarreras.es)
